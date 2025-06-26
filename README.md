@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif" width="200" alt="waving hello">
+  <img src="https://scontent-hou1-1.xx.fbcdn.net/v/t39.30808-6/472285162_10221141587088811_2240277810495358614_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=J1SbELILZqkQ7kNvwFAI4JO&_nc_oc=AdnKvDKu4p0czA0R8lCJDp_gLyG2LLUXWrc2SqchSzOT-twBAMW2KPlNnYS_N4iNGqKg838RLMg3Jl0jSt001fDv&_nc_zt=23&_nc_ht=scontent-hou1-1.xx&_nc_gid=J1UqqvlNb4oiPdutWfy0sA&oh=00_AfMhq0zq3B7eytnSO-JiWpzDHNWm2NcthLzavIAjV-ubfQ&oe=6863AE7A" width="200" alt="waving hello">
 </p>
 
 ---
